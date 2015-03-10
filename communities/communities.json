@@ -666,7 +666,7 @@
   {
     "name": "Datteln",
     "url": "http://freifunk-datteln.de",
-    "map": "http://map.freifunk-ruhrgebiet.de/RE/",
+    "map": "http://map.freifunk-ruhrgebiet.de/RE-DAT/",
     "prefix": "FF-RE-DAT-",
     "contacts": [
       {
@@ -679,7 +679,7 @@
   },
   {
     "name": "Waltrop",
-    "url": "http://freifunk-datteln.de",
+    "url": "http://freifunk-waltrop.de",
     "map": "http://map.freifunk-ruhrgebiet.de/RE/",
     "prefix": "FF-RE-WTP-",
     "contacts": [
@@ -687,7 +687,7 @@
         "firstname": "Team Waltrop",
         "lastname": "",
         "nickname": "",
-        "mail": "info@freifunk-Waltrop.de"
+        "mail": "info@freifunk-waltrop.de"
       }
     ]
   },
